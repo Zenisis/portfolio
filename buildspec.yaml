@@ -9,7 +9,7 @@ env:
     AWS_DEFAULT_REGION: ap-south-1
     
     IMAGE_REPO_NAME: mobile_app/portfolio
-    IMAGE_TAG: $CODEBUILD_RESOLVED_SOURCE_VERSION
+    IMAGE_TAG: latest
 
 phases:
   pre_build:
