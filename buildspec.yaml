@@ -6,7 +6,7 @@ version: 0.2
 
 env:
   variables:
-    AWS_DEFAULT_REGION: ap-south-1
+    AWS_DEFAULT_REGION: us-west-2
     
     IMAGE_REPO_NAME: mobile_app/portfolio
     IMAGE_TAG: latest
